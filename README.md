@@ -1,14 +1,14 @@
 <h1>Hi, I'm Butch! <br/><a href="https://github.com/Ch1ngHuman">Programmer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Nova Guard: Student Monitoring Violation System</b>
+- <a href=https://github.com/Ch1ngHuman/novaguardV1-latest/tree/main><b>Nova Guard: Student Monitoring Violation System</b></a>
   <ul>
     <li>A student violation monitoring system that defines, organizes, and manages student offenses by category, distinguishing between minor and major violations to promote consistent and accurate disciplinary recordkeeping.</li>
     <li>A way to practice my programming skills in developing desktop application in both front and back end. </li>
     <li>I developed the front end using HTML, CSS, and JavaScript, and the back end with PHP powered by XAMPP.</li>
   </ul>
 <h2>📜 Certifications</h2>
-<p>🌱 I’m currently learning full stack web developer and C# at freecodcamp.org and learn.microsoft.com</p>
+<p>🌱 I’m currently learning full stack web developer and C# at <a href=https://freecodcamp.org>freecodcamp.org</a> and <a href=learn.microsoft.com>learn.microsoft.com</a>.</p>
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -19,7 +19,7 @@
 -->  
 <h2>📫 How to reach me:</h2>
 [linkedin]: www.linkedin.com/in/butch-salar-3ba207376<br>
-[Gmail]: butchsalar26@gmail.com
+[Gmail]: <a href= butchsalar26@gmail.com>butchsalar26@gmail.com</a>
 
 <!--
 **Ch1ngHuman/Ch1ngHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
