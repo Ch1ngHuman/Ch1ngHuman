@@ -8,6 +8,12 @@
     <li>I developed the front end using HTML, CSS, and JavaScript, and the back end with PHP powered by XAMPP.</li>
   </ul>
 <h2>📜 Certifications</h2>
+<ul>
+  <li><b>Computer Systems Servicing NCII:</b> Introduction to CSS</li>
+  <li><b>Computer Systems Servicing NCII:</b> Installing and Configuring Computer Systems</li>
+  <li><b>Computer Systems Servicing NCII:</b> Maintaining Computer Systems and Networks</li>
+  <li><b>Computer Systems Servicing NCII:</b> Setting Up Computer Networks & Servers</li>
+</ul>
 <p>🌱 I’m currently learning full stack web developer and C# at <a href=https://freecodcamp.org>freecodcamp.org</a> and <a href=learn.microsoft.com>learn.microsoft.com</a>.</p>
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
