@@ -24,7 +24,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 -->  
 <h2>📫 How to reach me:</h2>
-[linkedin]: www.linkedin.com/in/butch-salar-3ba207376<br>
+[linkedin]: www.linkedin.com/in/butch-salar<br>
 [Gmail]: <a href= butchsalar26@gmail.com>butchsalar26@gmail.com</a>
 
 <!--
